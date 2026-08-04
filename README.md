@@ -1,10 +1,20 @@
 # 🚴 Bike Sales Excel Analysis
 
+## 📂 Repository Structure
+
+- README.md
+- RAW DATASET (Bike sales dataset)
+- Excel analysis and dashboard workbook
+- Screenshot of dashboard with slicers
+
+
+
+
 ## 📌 Project Overview
 
 This project demonstrates the use of **Microsoft Excel** to clean, analyze, and visualize customer bike sales data. The goal was to transform raw customer information into an interactive dashboard that highlights purchasing patterns and supports data-driven decision-making.
 
-The project showcases practical Excel skills commonly used in business intelligence and entry-level data analyst roles.
+
 
 ---
 ## 🎯 Business Problem
@@ -60,23 +70,13 @@ The interactive dashboard enables users to explore bike purchase trends through 
 The analysis highlights several business insights, including:
 
 - Customers with higher average incomes were generally more likely to purchase bikes.
-- Middle-aged customers represented the largest proportion of bike purchases.
+- Middle-aged customers (Age 31-50) represented the largest proportion of bike purchases.
 - Commute distance appeared to influence purchasing behaviour.
 - Purchasing patterns varied across customer demographics.
 
 ---
-## 📂 Repository Structure
 
-```text
-bike-sales-excel-analysis/
-│
-├── Bike Sales Dashboard.xlsx
-├── Bike Sales Dataset.xlsx
-├── dashboard.png
-└── README.md
-```
 
----
 
 ## 📷 Dashboard Preview
 
